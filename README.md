@@ -44,46 +44,5 @@ Le prix du logiciel est de 89,70 €.
 </video>
 
 ## Paiement
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Paiement</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-
-<body>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="NMMBZ63AVU6V4" />
-  <table>
-    <tr>
-      <td>
-        <input type="hidden" name="on0" value="Wtrvck"/>
-        Wtrvck
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <select name="os0">
-          <option value="Ce logiciel de capture de frappe, Wtrvck, est un outil de survei">
-            Ce logiciel de capture de frappe, Wtrvck, est un outil de survei €89.70 EUR
-          </option>
-          <option value="Votre achat sera sécurisé via PayPal. Une fois le paiement effec">
-            Votre achat sera sécurisé via PayPal. Une fois le paiement effec €89.70 EUR
-          </option>
-          <option value="Pour toute question ou support, contactez Wharkly47 sur GitHub (">
-            Pour toute question ou support, contactez Wharkly47 sur GitHub ( €89.70 EUR
-          </option>
-        </select>
-      </td>
-    </tr>
-  </table>
-  <input type="hidden" name="currency_code" value="EUR" />
-  <input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
-</form>
-</body>
-</html>
-
 [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NMMBZ63AVU6V4)
 
