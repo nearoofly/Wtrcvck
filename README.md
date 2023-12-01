@@ -44,11 +44,6 @@ Le prix du logiciel est de 89,70 €.
 </video>
 
 ## Paiement
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NMMBZ63AVU6V4" target="_blank">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" alt="PayPal">
-</a>
-
-
 
 [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NMMBZ63AVU6V4)
 
